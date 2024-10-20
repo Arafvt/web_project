@@ -35,9 +35,30 @@ body {
   position: relative;
   margin: 10px;
 }
+.first {
+  background-color: #2f162d;
+  color: white;
+  border: 1px solid black;
+  padding: 5px 10px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  font-size: 24px;
+}
 
-.menu h2 {
+.second {
   background-color: #1F2F16;
+  color: white;
+  border: 1px solid black;
+  padding: 5px 10px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  font-size: 24px;
+}
+
+.third {
+  background-color: #2f1616;
   color: white;
   border: 1px solid black;
   padding: 5px 10px;
